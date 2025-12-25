@@ -19,8 +19,8 @@ A fully manual **Retrieval-Augmented Generation (RAG)** system built without any
 ---
 
 ## 📸 Interface
-<img width="1500" height="750" alt="image" src="https://github.com/user-attachments/assets/63e7aa67-e856-4333-b6ba-97665b147cc3" />
-<img width="1707" height="869" alt="image" src="https://github.com/user-attachments/assets/16bce67b-efdf-4b1c-8306-662f98066b31" />
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/63e7aa67-e856-4333-b6ba-97665b147cc3" />
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/16bce67b-efdf-4b1c-8306-662f98066b31" />
 
 ---
 
