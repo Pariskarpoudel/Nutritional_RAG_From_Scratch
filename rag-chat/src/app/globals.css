@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+.citation-page {
+  @apply text-indigo-600 dark:text-indigo-400 font-medium;
+}
+
+.citation {
+  color: theme('colors.indigo.600');
+}
+
+.dark .citation {
+  color: theme('colors.indigo.400');
+}
+
+/* Your other custom styles (optional) */
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
